@@ -1,7 +1,16 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
+💻 Ingeniero en Computación | Analista de Datos | Tecnología & Manufactura
 
+  Soy bachiller en Ingeniería en Computación con experiencia en análisis de datos, monitoreo de información y soporte a la toma de decisiones en entornos empresariales y de manufactura.
+Me especializo en transformar datos en información útil mediante herramientas como Python, SQL, R y Excel, contribuyendo a la mejora continua de procesos y la optimización operativa.
+
+Enfocado en análisis de datos y mejora de procesos
+🏭 Experiencia en entornos de manufactura y tecnología
+🔧 Conocimientos en troubleshooting y mantenimiento de equipos automatizados
+📈 Interesado en optimización, calidad de datos y visualización
+🤝 Orientado al trabajo en equipo y resolución de problemas
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+engineer" /></a>
 </p>
