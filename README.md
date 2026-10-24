@@ -1,42 +1,35 @@
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>
-</p>
-💻 Ingeniero en Computación | Analista de Datos | Tecnología & Manufactura
+### Hola, soy Fabio Bonilla 👋
+### 💻 Ingeniero en Informática | Backend Java & Spring Boot Developer
 
-  Soy bachiller en Ingeniería en Computación con experiencia en análisis de datos, monitoreo de información y soporte a la toma de decisiones en entornos empresariales y de manufactura.
-Me especializo en transformar datos en información útil mediante herramientas como Python, SQL, R y Excel, contribuyendo a la mejora continua de procesos y la optimización operativa.
+Bienvenido a mi portafolio técnico. Me especializo en construir arquitecturas backend robustas, seguras y escalables, aplicando buenas prácticas de desarrollo, manejo estricto de concurrencia y despliegues en la nube.
 
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?&font=IBM+Plex+Sans&color=abcdef&size=20&lines=Welcome+to+my+GitHub+Profile!;I'm+a+Data+Scientist;I'm+a+Computer+engineer" /></a>
-</p>
-<a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  </a>
+---
 
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  </a>
+### 🚀 Proyecto Estrella: NovaBank
+*Una aplicación bancaria simulada full-stack diseñada para demostrar arquitectura de microservicios y despliegue cloud.*
 
-   <a href="https://numpy.org/" target="_blank">
-    <img alt="Numpy" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white">
-  </a>
+* **Stack:** Java 21, Spring Boot, Spring Data JPA, PostgreSQL, Docker, GCP (Cloud Run, Cloud SQL).
+* **Características Técnicas Destacadas:**
+  * 💰 **Manejo monetario exacto:** Uso estricto de `BigDecimal` para evitar errores de redondeo.
+  * 🔒 **Transacciones atómicamente seguras:** Implementación de `@Transactional` para garantizar la consistencia ACID (rollback automático ante fallos).
+  * ⚡ **Control de concurrencia:** Prevención de condiciones de carrera mediante bloqueo optimista (`@Version`).
+* 📂 **Repositorio:** [Ver código fuente de NovaBank](https://github.com/FabioBonilla/novabank)
 
-   <a href="https://pandas.pydata.org/" target="_blank">
-    <img alt="Pandas" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">
-  </a>
+---
 
-   <a href="https://plotly.com/" target="_blank">
-    <img alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white">
-  </a>
+### 🛠️ Stack Tecnológico
 
-   <a href="https://streamlit.io/" target="_blank">
-    <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white">
-  </a>
-<a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white"></a>
+| Categoría | Tecnologías & Herramientas |
+| :--- | :--- |
+| **Backend** | Java 21, Spring Boot, Spring Data JPA, Hibernate, REST APIs, Maven |
+| **Bases de Datos** | PostgreSQL |
+| **Cloud & DevOps** | Docker, Docker Compose, Google Cloud Platform (GCP), Firebase Hosting |
+| **Control & Calidad** | Git, GitHub Actions, VS Code, PowerShell |
 
-   
-<!--
-**FabioBonilla/FabioBonilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-## Social media profiles
+---
 
+### 📈 Enfoque de Aprendizaje Actual
+* Cursando la certificación **Google Cloud Digital Leader** para dominar los fundamentos de arquitectura cloud y servicios administrados.
+* Profundizando en pruebas unitarias e integración continua (JUnit 5, Mockito, GitHub Actions).
 
+---
