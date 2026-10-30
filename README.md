@@ -61,10 +61,10 @@ Soy **Ingeniero en Informática** apasionado por el desarrollo de software backe
 * **Tecnologías:** `Python` • `Pandas` • `Matplotlib` • `Seaborn`
 
 ---
+---
 
-### 📊 Estadísticas de GitHub
+### 📊 Actividad y Repositorios
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FabioBonilla&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabioBonilla&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-</div>
+* **Perfil principal:** [github.com/FabioBonilla](https://github.com/FabioBonilla)
+* **Enfoque actual:** Desarrollo Backend profesional con Java / Spring Boot y analítica de datos en Python.
+
