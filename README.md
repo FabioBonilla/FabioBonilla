@@ -1,10 +1,16 @@
 <div align="center">
 
-# ¡Hola, soy Fabio Bonilla! 👋
+<h1>¡Hola, soy Fabio Bonilla! 👋</h1>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabiobonilladata)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jose_fabio02@outlook.es)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FabioBonilla)
+<a href="https://www.linkedin.com/in/fabiobonilladata" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:jose_fabio02@outlook.es">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://github.com/FabioBonilla" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
 
 </div>
 
@@ -44,7 +50,7 @@ Soy **Ingeniero en Informática** apasionado por el desarrollo de software backe
 
 #### 📈 [Manufacturing OEE & SPC Dashboard](https://github.com/FabioBonilla/manufacturing-oee-dashboard)
 > Aplicación web interactiva para monitorear la Eficiencia Global de Equipos (OEE) y Control Estadístico de Procesos (SPC).
-* **Aspectos clave:** Incluye gráficos de control X-Bar, análisis de capacidad de procesos ($C_p$, $C_{pk}$), diagramas de Pareto para defectos y exportación de reportes automatizados a Excel.
+* **Aspectos clave:** Incluye gráficos de control X-Bar, análisis de capacidad de procesos (Cp, Cpk), diagramas de Pareto para defectos y exportación de reportes automatizados a Excel.
 * **Tecnologías:** `Python` • `Streamlit` • `Plotly` • `Pandas` • `OpenPyXL`
 
 ---
